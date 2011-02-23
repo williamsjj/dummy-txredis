@@ -45,7 +45,7 @@ version = '0.5'
  
 setup(name='dummy-txredis',
       version=version,
-      description="Dummy txRedis",
+      description="Dummy txRedis client and factory.",
       long_description="""Dummy txRedis client and factory for testing Twisted apps that rely on txRedis.""",
       classifiers=[],
       keywords='',
